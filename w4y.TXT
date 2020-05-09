@@ -1,7 +1,3 @@
-http=music.desperadoj.com:30000, username=Netease Music, password=none, over-tls=false, fast-open=false, udp-relay=false, tag=解锁网易云音乐1
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=解锁网易云音乐1
 
-http=music.desperadoj.com:30002, username=Netease Music, password=none, fast-open=false, udp-relay=false, tag=解锁网易云音乐2
-
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=解锁网易云音乐3
-
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=解锁网易云音乐4
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com, fast-open=false, udp-relay=false, tag=解锁网易云音乐2
