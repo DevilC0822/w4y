@@ -1,5 +1,7 @@
-网易云解锁1 = http,106.52.127.72,19951, fast-open=false, udp-relay=false
+网易云解锁1 = http,106.52.127.72,19951
 
-网易云解锁2 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_x80j
+网易云解锁2 = http,101.37.16.7,19980
 
-网易云解锁3 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_x80j
+网易云解锁3 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_x80j
+
+网易云解锁4 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_x80j
