@@ -8,7 +8,7 @@ http = taron.top:100,fast-open=false, udp-relay=false,tag=解锁网易云音乐4
  
 http = music.griouges.cn:39000,fast-open=false, udp-relay=false,tag=解锁网易云音乐5
 
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn, fast-open=false, udp-relay=false, tag=解锁网易云音乐6
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云音乐6
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn, fast-open=false, udp-relay=false, tag=解锁网易云音乐7
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云音乐7
 
