@@ -1,14 +1,8 @@
 网易云解锁1 = http,106.52.127.72,19951
 
-网易云解锁2 = http,101.37.16.7,19980
+网易云解锁2 = http,music.griouges.cn,39000
 
-网易云解锁3 = http,aimer.one,2333
+网易云解锁3 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_emx2
 
-网易云解锁4 = http,taron.top,100
-
-网易云解锁5 = http,music.griouges.cn,39000
-
-网易云解锁6 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,desperadoj.com_free_proxy_emx2
-
-网易云解锁7 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_emx2
+网易云解锁4 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,desperadoj.com_free_proxy_emx2
  
