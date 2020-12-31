@@ -6,8 +6,4 @@ shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.
 
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云音乐4
 
-shadowsocks=proxy.plusmedia.site:58080, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=解锁网易云音乐5
-
-shadowsocks=proxy.plusmedia.site:58081, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=解锁网易云音乐6
-
 
