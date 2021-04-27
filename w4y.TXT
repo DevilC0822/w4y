@@ -2,8 +2,8 @@ http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=解锁网易云�
  
 http = music.griouges.cn:39000,fast-open=false, udp-relay=false,tag=解锁网易云音乐2
 
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云音乐3
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=解锁网易云音乐3
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云音乐4
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=解锁网易云音乐4
 
 
